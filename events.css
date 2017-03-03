@@ -1,0 +1,31 @@
+#guinea-pig {
+	width: fit-content;
+}
+
+.blue-text {
+	color: blue;
+}
+
+.hulk-out {
+}
+
+.capture-this {
+}
+
+.round-up {
+	border-radius: 100%;
+}
+
+article section:first-child {
+	font-weight: bold;
+}
+
+article section:last-child {
+	font-weight: bold;
+	font-style: italic;
+}
+
+button {
+	display: block;
+	margin-top: 3px;
+}
