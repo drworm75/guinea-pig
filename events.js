@@ -53,7 +53,3 @@ function copyText(event) {
 	outputDiv.innerHTML = inputText.value;
 
 }
-
-function btnPress() {
-
-}
