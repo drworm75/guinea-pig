@@ -7,9 +7,11 @@
 }
 
 .hulk-out {
+	font-size: 4em;
 }
 
 .capture-this {
+	border: 2px solid red
 }
 
 .round-up {
